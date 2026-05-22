@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_kartu-profile/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_kartu-profile/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_kartu-profile/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_l1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_l1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_l1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_l2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_l2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_l2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_l3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_l3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_l3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_l4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_l4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 1/pertemuan_1_l4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 2/pertemuan2_latihan-profile-page/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 2/pertemuan2_latihan-profile-page/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 2/pertemuan2_latihan-profile-page/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 2/pertemuan2_tugas-profile-page/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 2/pertemuan2_tugas-profile-page/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Pertemuan 2/pertemuan2_tugas-profile-page/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
